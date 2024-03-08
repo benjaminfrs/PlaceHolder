@@ -21,3 +21,18 @@ A frequent occurence in ***Hack'n'Slash*** games is the discovery of a powerful 
 
 ### Respect the player's time investment
 The ***Hack'n'Slash*** genre is a casino filled with rigged machines. In Path of Exile, there is often a way to deterministically craft items, but it requires so much built up currency that a player must utilize the trade system in order to craft the most powerful items for themselves. In ***Hack'n'Slash*** games the gameplay cadence is kill something, drop something, check that something, pick up something if it's an upgrade for you or another of your characters, otherwise go kill something. [Working Title] will solve both of these problems with its innovative ***Goblin Breeding Program<sup>TM</sup>***. More on that in the gameplay section.
+
+## Gameplay
+[Working Title] is a top down action focused game. The camera perspective will be 3rd person with the ability to rotate and change perspective (very similar to Grim Dawn or Diablo's camera). We use this camera perspective to allow the player to have a strategic bird's eye view as well as feel immersed in [Working Title]'s world. [Working Title] will also have account wide progression systems including the ***Goblin Breeding Program<sup>TM</sup>*** that take inspiration from other genres.
+
+### Gameplay Loop
+The core gameplay loop will consist of:
+1. Configuring the biome from the portal generator (i.e map device)
+    - The player can change the environment textures, potential rewards, difficulty scaling, and mission spawns for a biome
+2. Entering the biome
+3. Complete the biome until missions are complete or sufficient resources have been collected
+4. Return to the hub which contains the portal generator
+5. Engage with account wide progression systems [TODO: expand upon this section]
+
+### ***Goblin Breeding Program<sup>TM</sup>***
+In [Working Title] one of the main goals of the player will be to restore the population of goblins who have slowly been going extinct due to over zealous adventurers. 
