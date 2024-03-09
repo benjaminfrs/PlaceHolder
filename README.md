@@ -22,6 +22,24 @@ A frequent occurence in ***Hack'n'Slash*** games is the discovery of a powerful 
 ### Respect the player's time investment
 The ***Hack'n'Slash*** genre is a casino filled with rigged machines. In Path of Exile, there is often a way to deterministically craft items, but it requires so much built up currency that a player must utilize the trade system in order to craft the most powerful items for themselves. In ***Hack'n'Slash*** games the gameplay cadence is kill something, drop something, check that something, pick up something if it's an upgrade for you or another of your characters, otherwise go kill something. [Working Title] will solve both of these problems with its innovative ***Goblin Breeding Program<sup>TM</sup>***. More on that in the gameplay section.
 
+## Story
+In the world of [Working World Name], there are a wide variety of sentient creatures and races. Goblins are one such variety of sentient creatures. Goblins have widely been hunted by adventurers for their blood which has healing, as well as other mysterious, properties [TODO: come up with better reason for why goblins are hunted...]. Goblins are renowned for their engineering, craftmanship, and attention to detail. The player is an adventurer seeking fame and fortune in the world of [Working World Name]. In the opening scenes of the game, the player comes across a starving goblin. Moved by the plight of the goblin, the player offers the goblin some of their dwindling supplies. The goblin is grateful and gives the players instructions for reaching one of the few remaining goblin sanctuaries to be rewarded for their timely aid.
+
+### Goblin Sanctuary
+Upon reaching the goblin sanctuary, the player is greeted by [Enigmactic Goblin Engineer] who has been briefed on the player's merciful aid. Knowing the tempatation that the player faced to simply harvest the blood of the starving goblin, [Enigmactic Goblin Engineer] describes the plight of the goblin race and the hope of restoration. The player is moved by the cause of the dying race and enlists to help restore the goblins to their former glory. The sanctuary is filled with a variety of useful goblin machinery that will end up being vital over the course of the player's journey to restore the goblins to strength.
+
+### Themes
+- Mystical engineering goblins
+  - World of Warcraft whimsical and playful gadgets
+  - Harry Potter magic infused engineering
+  - Diablo inspired greed and love for loot
+- Empathy for a race on the brink of extinction
+- Moral Complexity
+    - Interracial conflict
+    - Resource scarcity
+    - Breeding/genetic manipulation
+- Exploitation of nature
+
 ## Gameplay
 [Working Title] is a top down action focused game. The camera perspective will be 3rd person with the ability to rotate and change perspective (very similar to Grim Dawn or Diablo's camera). We use this camera perspective to allow the player to have a strategic bird's eye view as well as feel immersed in [Working Title]'s world. [Working Title] will also have account wide progression systems including the ***Goblin Breeding Program<sup>TM</sup>*** that take inspiration from other genres.
 
@@ -33,6 +51,9 @@ The core gameplay loop will consist of:
 3. Complete the biome until missions are complete or sufficient resources have been collected
 4. Return to the hub which contains the portal generator
 5. Engage with account wide progression systems [TODO: expand upon this section]
+
+### Portal Generator
+[TODO]
 
 ### ***Goblin Breeding Program<sup>TM</sup>***
 In [Working Title] one of the main goals of the player will be to restore the population of goblins who have slowly been going extinct due to over zealous adventurers. The player will find goblins out in the wild and be able to send them back to base with [Goblin Technology]. Goblins are resourceful engineers and crafters, each with their own specialties and strengths. Once a goblin has returned to base, it can be put to work in various workshops in order to craft equipment and runes for the player. ***Goblins will passively work on crafting projects while the player is out completing biomes and missions, and when the player returns to base, they will be greeted with a shower of loot from the goblins' crafting endeavors***.
