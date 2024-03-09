@@ -43,6 +43,9 @@ Upon reaching the goblin sanctuary, the player is greeted by [Enigmactic Goblin 
 ## Gameplay
 [Working Title] is a top down action focused game. The camera perspective will be 3rd person with the ability to rotate and change perspective (very similar to Grim Dawn or Diablo's camera). We use this camera perspective to allow the player to have a strategic bird's eye view as well as feel immersed in [Working Title]'s world. [Working Title] will also have account wide progression systems including the ***Goblin Breeding Program<sup>TM</sup>*** that take inspiration from other genres.
 
+### Skill System
+[Working Title] features classless character design. The player will be restricted to using five active abilities as well as the ability to attack with their weapons. Active abilities come in the form of skill stones [TODO: come up with a more flavorful name that integrates with lore]. Goblins are not only highly skilled engineers but deeply spiritual. Their highly sought after blood can imbue a special type of stone to offer users unimaginable power. Goblins will craft these stones for players based on their crafting specialties and genetic traits (i.e a goblin skilled in Fire and Projectiles might craft a fireball skill stone that has additional projectile speed and is heat-seeking). [Working Title]'s skill system will provide unique skills that inspire creative ways to maximize their usefulness and create dynamic play styles. 
+
 ### Gameplay Loop
 The core gameplay loop will consist of:
 1. Configuring the biome from the portal generator (i.e map device)
