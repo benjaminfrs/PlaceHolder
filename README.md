@@ -26,9 +26,9 @@ The ***Hack'n'Slash*** genre is a casino filled with rigged machines. In Path of
 In the world of [Working World Name], there are a wide variety of sentient creatures and races. Goblins are one such variety of sentient creatures. Goblins have widely been hunted by adventurers for their blood which has healing, as well as other mysterious, properties [TODO: come up with better reason for why goblins are hunted...]. Goblins are renowned for their engineering, craftmanship, and attention to detail. The player is an adventurer seeking fame and fortune in the world of [Working World Name]. In the opening scenes of the game, the player comes across a starving goblin. Moved by the plight of the goblin, the player offers the goblin some of their dwindling supplies. The goblin is grateful and gives the players instructions for reaching one of the few remaining goblin sanctuaries to be rewarded for their timely aid.
 
 ### Goblin Sanctuary
-Upon reaching the goblin sanctuary, the player is greeted by [Enigmactic Goblin Engineer] who has been briefed on the player's merciful aid. Knowing the tempatation that the player faced to simply harvest the blood of the starving goblin, [Enigmactic Goblin Engineer] describes the plight of the goblin race and the hope of restoration. The player is moved by the cause of the dying race and enlists to help restore the goblins to their former glory. The sanctuary is filled with a variety of useful goblin machinery that will end up being vital over the course of the player's journey to restore the goblins to strength.
+Upon reaching the goblin sanctuary, the player is greeted by [Enigmactic Goblin Engineer] who has been briefed on the player's merciful aid. Knowing the tempatation that the player faced to simply harvest the blood of the starving goblin, [Enigmactic Goblin Engineer] describes the plight of the goblin race and the hope of restoration. The player is moved by the cause of the dying race and enlists to help restore the goblins to their former glory. The sanctuary is filled with a variety of useful goblin machinery that will end up being vital over the course of the player's journey to restore the goblins to strength. The goblins will offer the player missions over the course of the game unlocking and upgrading the sanctuary offering new gameplay systems. 
 
-### Themes
+### Story Themes
 - Mystical engineering goblins
   - World of Warcraft whimsical and playful gadgets
   - Harry Potter magic infused engineering
@@ -46,8 +46,8 @@ Upon reaching the goblin sanctuary, the player is greeted by [Enigmactic Goblin 
 ### Skill System
 [Working Title] features classless character design. The player will be restricted to using five active abilities as well as the ability to attack with their weapons. Active abilities come in the form of skill stones [TODO: come up with a more flavorful name that integrates with lore]. Goblins are not only highly skilled engineers but deeply spiritual. Their highly sought after blood can imbue a special type of stone to offer users unimaginable power. Goblins will craft these stones for players based on their crafting specialties and genetic traits (i.e a goblin skilled in Fire and Projectiles might craft a fireball skill stone that has additional projectile speed and is heat-seeking). [Working Title]'s skill system will provide unique skills that inspire creative ways to maximize their usefulness and create dynamic play styles. 
 
-### Gameplay Loop
-The core gameplay loop will consist of:
+### Gameplay Loops
+The core monster fighting loop:
 1. Configuring the biome from the portal generator (i.e map device)
     - The player can change the environment textures, potential rewards, difficulty scaling, and mission spawns for a biome
 2. Entering the biome
@@ -66,3 +66,54 @@ This crafting system will solve the problem of the typical kill, loot, kill cycl
 Due to the goblins' dwindling population, there is a goblin counsel funded incentive program for goblins that bring offspring to bear. Goblins that reproduce will have children with similar or improved engineering and crafting capabilities. Goblins will naturally reproduce, but the player can artifically control pairings by using an aphrodesiac harvested from the world. By finding goblin pairs that have similar strengths, the player can create goblins that create stronger and more targeted loot ***(i.e parents that both produce flame infused swords will produce offspring that produce stronger flame infused swords)***.
 
 ***Hack'n'Slash*** games generally feature equipable items with a number of modifiers on the items(i.e more fire damage, more health, increased defenses, etc.). The ***Goblin Breeding Program<sup>TM</sup>*** will shift these modifiers to goblins that will craft items with their goblin modifiers. This system will enable passive loot generation and will let the player decide when they wish to engage with the loot system. 
+
+## Implementation
+[Working Title] will be built using Unreal Engine targeting consumer grade PC hardware using Windows 10/11. It will be possible to port to consoles and other operating systems if [Working Title] achieves commerical success.
+
+### Development Roadmap 
+1. Pre-Production
+    - Describe core concept of the game along with the core mechanics
+    - Describe minimum viable prototype and the systems necessary to build the prototype
+    - Describe workflow and tools used for development and production
+2. Minimum Viable Prototype
+    - 3rd Person Camera
+    - Character movement
+    - Basic attack animation
+    - Enemy/actor creation
+    - Basic enemy AI (move toward player and attempt to attack)
+    - Ability for the character to deal and receive damage
+    - Implement two basic active abilities
+3. Minimum Marketing Materials 
+    - Take basic gameplay from the prototype and create steam page as soon as posible
+    - Create four short design blogs that describe the design pillars of [Working Title]
+    - Use the Twitter and Reddit accounts for Rune Byte Games to promote the design blogs and steam page
+4. Minimum Implementation of Core Systems
+    - Design short linear level that leads to the Goblin Sanctuary
+    - Design very basic Goblin Sanctuary with one room, the Forge
+    - Design basic Forge room that comes with one goblin
+    - The goblin can create swords that have one random modifier
+    - Implement basic inventory and paper doll equipment UI
+    - Give the character the ability to equip items
+    - Implement basic portal generator that takes the character to a static level
+5. Update Marketing Materials
+    - Use newly created content to spruce up the steam page
+    - Create short form written content highlighting potential with goblin crafting and the portal generator
+    - Promote short form written content on steam, twitter, and reddit 
+6. Extend Core System [Goblin Crafting]
+    - Add additional goblins that craft additional item types (body armour, gloves, boots, bows, etc.)
+    - Implement basic skill stone crafting for the goblins
+    - Implement system to generate goblins with random modifiers
+    - Expand items and skill stones to have more modifiers
+    - Implement basic damage modification system so that the effect of item and skill stone modifiers can be demonstrated
+[TODO: flesh out future development] 
+
+## Marketing
+[Working Title] will be built using Unreal Engine targeting consumer grade PC hardware using Windows 10/11. It will be possible to port to consoles and other operating systems if [Working Title] achieves commerical success. [Working Title] will be compared to recent releases like Diablo 4 and Last Epoch. The game will be initally marketed and distributed on steam targeting players who interested in tags such as ***Hack'n'Slash, Action RPG, Loot, Creature Collection***. The ***Hack'n'Slash*** genre has a loyal fan base and fills an unsaturated niche in the market. Eleventh Hour Games, developer of the recently released Last Epoch, has demonstrated that a small team is capable of releasing a ***Hack'n'Slash*** game with great success. [Working Title] focuses on the best gameplay and deep customization (game elements highly correlated with financial success on steam) elements from the ***Hack'n'Slash*** genre while discarding expensive linear story design and voice acting (elements that Rune Byte Games believes are inferior sales drivers). Replayable, customizable games perform very well on steam as well as genre crossover (***Hack'n'Slash/Creature Collector***) when executed well.
+
+### Marketing Roadmap
+    - Build steam page when Minimum Viable Prototype is complete
+    - Build audience through social media with short form written content
+    - Release a demo once the core systems are polished (keep in mind timing of seasonal content from Diablo/Path of Exile/Last Epoch)
+    - Target festivals to show case the demo
+    - Focus on reaching out to content creators to get coveredge from individuals with audiences
+
