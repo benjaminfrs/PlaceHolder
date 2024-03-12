@@ -112,9 +112,9 @@ Due to the goblins' dwindling population, there is a goblin counsel funded incen
 [Working Title] will be built using Unreal Engine targeting consumer grade PC hardware using Windows 10/11. It will be possible to port to consoles and other operating systems if [Working Title] achieves commerical success. [Working Title] will be compared to recent releases like Diablo 4 and Last Epoch. The game will be initally marketed and distributed on steam targeting players who interested in tags such as ***Hack'n'Slash, Action RPG, Loot, Creature Collection***. The ***Hack'n'Slash*** genre has a loyal fan base and fills an unsaturated niche in the market. Eleventh Hour Games, developer of the recently released Last Epoch, has demonstrated that a small team is capable of releasing a ***Hack'n'Slash*** game with great success. [Working Title] focuses on the best gameplay and deep customization (game elements highly correlated with financial success on steam) elements from the ***Hack'n'Slash*** genre while discarding expensive linear story design and voice acting (elements that Rune Byte Games believes are inferior sales drivers). Replayable, customizable games perform very well on steam as well as genre crossover (***Hack'n'Slash/Creature Collector***) when executed well.
 
 ### Marketing Roadmap
-    - Build steam page when Minimum Viable Prototype is complete
-    - Build audience through social media with short form written content
-    - Release a demo once the core systems are polished (keep in mind timing of seasonal content from Diablo/Path of Exile/Last Epoch)
-    - Target festivals to show case the demo
-    - Focus on reaching out to content creators to get coveredge from individuals with audiences
+  - Build steam page when Minimum Viable Prototype is complete
+  - Build audience through social media with short form written content
+  - Release a demo once the core systems are polished (keep in mind timing of seasonal content from Diablo/Path of Exile/Last Epoch)
+  - Target festivals to show case the demo
+  - Focus on reaching out to content creators to get coveredge from individuals with audiences
 
